@@ -9,3 +9,4 @@ print("B")
 print("A")
 print("AAA")
 print("a=20")
+c=30
