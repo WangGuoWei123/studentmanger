@@ -8,3 +8,4 @@ print("A操作")
 print("Ｂ最后修改")
 print("sss")
 print("BBBB")
+b = 10
