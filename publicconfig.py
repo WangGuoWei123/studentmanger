@@ -8,3 +8,4 @@ print("B")
 
 print("A")
 print("BBB")
+print("B=10")
