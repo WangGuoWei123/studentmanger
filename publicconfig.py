@@ -10,3 +10,4 @@ print("A")
 print("AAA")
 print("a=20")
 print("t=3=")
+c=30

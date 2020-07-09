@@ -10,3 +10,4 @@ print("sss")
 print("BBBB")
 b = 10
 b = 30
+c = 30
