@@ -9,3 +9,4 @@ print("Ｂ最后修改")
 print("sss")
 print("BBBB")
 b = 10
+b = 30
