@@ -7,3 +7,4 @@ print("Ｂ最后修改配置文件")
 print("B")
 
 print("A")
+print("AAA")
