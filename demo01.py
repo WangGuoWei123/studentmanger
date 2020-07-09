@@ -8,3 +8,4 @@ print("A修改")
 print("Asss")
 print("AAA")
 print("a=20")
+a=40
