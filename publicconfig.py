@@ -7,5 +7,5 @@ print("Ｂ最后修改配置文件")
 print("B")
 
 print("A")
-print("BBB")
-print("B=10")
+print("AAA")
+print("a=20")
