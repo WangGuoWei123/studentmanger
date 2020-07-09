@@ -9,3 +9,4 @@ print("Asss")
 print("AAA")
 print("a=20")
 a=40
+t=50
