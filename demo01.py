@@ -10,3 +10,4 @@ print("AAA")
 print("a=20")
 a=40
 t=50
+z = 30
